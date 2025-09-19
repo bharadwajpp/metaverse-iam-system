@@ -296,16 +296,14 @@ We believe the metaverse should be **open, secure, and user-controlled**. Here's
 ##  **Need Help?**
 
 ### ** Community Support**
-- **Discord:** [Join our community](https://discord.gg/metaverse-iam)
-- **Telegram:** [@MetaverseIAM](https://t.me/metaverseiam)
-- **Twitter:** [@MetaverseIAM](https://twitter.com/metaverseiam)
+soon........
 
 ### ** Issues & Bugs**
 - **GitHub Issues:** [Report bugs here](https://github.com/bharadwajpp/metaverse-iam-system/issues)
 
 ### ** Business Inquiries**
 - **Partnerships:** [](mailto:pratyushanand955@gmail.com)
--
+
 
 ---
 
